@@ -21,6 +21,10 @@ google에 **VSC github 연동** 과 같은 키워드로 검색하시면 참고�
 
    ![create fork button click](./assets/1-2.png)
 
+1. fork가 잘 되었는지 확인합니다.
+
+   ![check fork](./assets/1-3.png)
+
 # 2. git clone
 
 1. VSCode를 열면 `Clone Repository`를 클릭한 뒤 `Clone from GitHub`를 클릭합니다.
