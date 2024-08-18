@@ -1,4 +1,4 @@
-package java;
+package java_test;
 
 public class d {
     public static void main(String[] args) {
