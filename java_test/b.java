@@ -16,6 +16,7 @@ public class b {
             System.out.println("O");
         }
         
+        scanner.close();
 
     }
 
